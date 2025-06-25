@@ -10,9 +10,11 @@ namespace api_escola.Configs.AutoMapper
         {
             //Entidade para DtoResponse
             CreateMap<Aluno, AlunoDtoResponse>();
+            CreateMap<Professor, ProfessorDtoResponse>();
 
             //DtoRequest para entidade
             CreateMap<AlunoDtoRequest, Aluno>();
+            CreateMap<ProfessorDtoRequest, Professor>();
         }
     }
 }

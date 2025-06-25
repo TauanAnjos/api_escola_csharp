@@ -27,7 +27,7 @@ namespace api_escola.Controllers
 
             if (alunoExistente == null)
             {
-                return NotFound("Cliente de ID: " + id + " não encontrado.");
+                return NotFound("Aluno de ID: " + id + " não encontrado.");
             }
             return Ok(alunoExistente);
         }
@@ -37,7 +37,7 @@ namespace api_escola.Controllers
             var alunoExistente = _service.BuscarAluno(id);
             if(alunoExistente == null)
             {
-                return NotFound("Cliente de ID: " + id + " não encontrado.");
+                return NotFound("Aluno de ID: " + id + " não encontrado.");
             }
             _service.EditarAluno(id, request);
             var alunoAtualizado = _service.BuscarAluno(id);
@@ -49,10 +49,16 @@ namespace api_escola.Controllers
             var alunoExistente = _service.BuscarAluno(id);
             if (alunoExistente == null)
             {
-                return NotFound("Cliente de ID: " + id + " não encontrado.");
+                return NotFound("Aluno de ID: " + id + " não encontrado.");
             }
             _service.DeletarAluno(id);
             return Ok("Aluno deletado com sucesso.");
+        }
+        [HttpGet]
+        public IActionResult BuscarTodosAlunos()
+        {
+            var listaDeAlunos = _service.ListarAlunos();
+            return Ok(listaDeAlunos);
         }
     }
 }

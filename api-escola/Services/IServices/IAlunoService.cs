@@ -7,7 +7,7 @@ namespace api_escola.Services.IServices
         void CriarAluno(AlunoDtoRequest request);
         void EditarAluno(ulong id, AlunoDtoRequest request);
         AlunoDtoResponse BuscarAluno(ulong id);
-        List<AlunoDtoResponse> List();
+        List<AlunoDtoResponse> ListarAlunos();
         void DeletarAluno(ulong id);
     }
 }

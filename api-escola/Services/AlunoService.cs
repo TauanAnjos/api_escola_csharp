@@ -61,7 +61,7 @@ namespace api_escola.Services
             _repository.EditarAluno(aluno);
         }
 
-        public List<AlunoDtoResponse> List()
+        public List<AlunoDtoResponse> ListarAlunos()
         {
             var alunos = _repository.ListarAlunos();
 

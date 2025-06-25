@@ -25,6 +25,7 @@ builder.Services.AddScoped<IProfessorRepository, ProfessorRepository>();
 
 //Services
 builder.Services.AddScoped<IAlunoService, AlunoService>();
+builder.Services.AddScoped<IProfessorService, ProfessorService>();
 
 // Add services to the container.
 builder.Services.AddControllers();

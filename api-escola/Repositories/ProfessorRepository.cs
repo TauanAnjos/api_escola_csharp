@@ -32,6 +32,7 @@ namespace api_escola.Repositories
         public void EditarProfessor(Professor professor)
         {
             _context.Professors.Update(professor);
+            _context.SaveChanges();
         }
 
         public List<Professor> ListarProfessores()
