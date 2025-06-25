@@ -24,12 +24,20 @@ builder.Services.AddScoped<IAlunoRepository, AlunoRepository>();
 builder.Services.AddScoped<IProfessorRepository, ProfessorRepository>();
 builder.Services.AddScoped<ITituloRepository, TituloRepository>();
 builder.Services.AddScoped<IInstituicaoRepository, InstituicaoRepository>();
+builder.Services.AddScoped<ITipoCursoRepository, TipoCursoRepository>();
+builder.Services.AddScoped<ITipoDisciplinaRepository, TipoDisciplinaRepository>();
+builder.Services.AddScoped<ICursoRepository, CursoRepository>();
+builder.Services.AddScoped<IDisciplinaRepository, DisciplinaRepository>();
 
 //Services
 builder.Services.AddScoped<IAlunoService, AlunoService>();
 builder.Services.AddScoped<IProfessorService, ProfessorService>();
 builder.Services.AddScoped<ITituloService, TituloService>();
 builder.Services.AddScoped<IInstituicaoService, InstituicaoService>();
+builder.Services.AddScoped<ITipoCursoService, TipoCursoService>();
+builder.Services.AddScoped<ITipoDisciplinaService, TipoDisciplinaService>();
+builder.Services.AddScoped<ICursoService, CursoService>();
+builder.Services.AddScoped<IDisciplinaService, DisciplinaService>();
 
 // Add services to the container.
 builder.Services.AddControllers();

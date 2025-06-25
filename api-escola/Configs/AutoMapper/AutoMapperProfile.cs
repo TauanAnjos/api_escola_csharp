@@ -13,12 +13,18 @@ namespace api_escola.Configs.AutoMapper
             CreateMap<Professor, ProfessorDtoResponse>();
             CreateMap<Titulo, TituloDtoResponse>();
             CreateMap<Instituicao, InstituicaoDtoResponse>();
+            CreateMap<TipoCurso,TipoCursoDtoResponse>();
+            CreateMap<TipoDisciplina,TipoDisciplinaDtoResponse>();
+            CreateMap<Curso, CursoDtoResponse>();
 
             //DtoRequest para entidade
             CreateMap<AlunoDtoRequest, Aluno>();
             CreateMap<ProfessorDtoRequest, Professor>();
             CreateMap<TituloDtoRequest, Titulo>();
             CreateMap<InstituicaoDtoRequest, Instituicao>();
+            CreateMap<TipoCursoDtoRequest, TipoCurso>();
+            CreateMap<TipoDisciplinaDtoRequest,  TipoDisciplina>();
+            CreateMap<CursoDtoRequest, Curso>();
         }
     }
 }
