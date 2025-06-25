@@ -3,44 +3,124 @@
   "WorkspaceRootPath": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\repositories\\professorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\repositories\\professorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\services\\professorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\services\\professorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\services\\iservices\\iprofessorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\services\\iservices\\iprofessorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\services\\instituicaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\services\\instituicaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\repositories\\instituicaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\repositories\\instituicaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\controllers\\instituicaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\controllers\\instituicaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\controllers\\dtos\\instituicadodtoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\controllers\\dtos\\instituicadodtoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\controllers\\dtos\\instituicaodtorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\controllers\\dtos\\instituicaodtorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\models\\instituicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\models\\instituicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\repositories\\irepositories\\iinstituicaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\repositories\\irepositories\\iinstituicaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\repositories\\irepositories\\ialunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\repositories\\irepositories\\ialunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\repositories\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\repositories\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\services\\iservices\\ialunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\services\\iservices\\ialunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\services\\iservices\\iinstituicaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\services\\iservices\\iinstituicaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\configs\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\configs\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\controllers\\dtos\\alunodtorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\controllers\\dtos\\alunodtorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\services\\iservices\\itituloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\services\\iservices\\itituloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\repositories\\professorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\repositories\\professorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\services\\tituloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\services\\tituloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\controllers\\titulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\controllers\\titulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\services\\iservices\\iprofessorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\services\\iservices\\iprofessorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\controllers\\dtos\\titulodtoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\controllers\\dtos\\titulodtoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\controllers\\dtos\\titulodtorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\controllers\\dtos\\titulodtorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\models\\titulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\models\\titulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\repositories\\titulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\repositories\\titulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\repositories\\irepositories\\ititulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\repositories\\irepositories\\ititulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\repositories\\irepositories\\iprofessorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\repositories\\irepositories\\iprofessorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\controllers\\dtos\\professordtoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,16 +131,8 @@
       "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\controllers\\dtos\\professordtorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\controllers\\dtos\\alunodtorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\controllers\\dtos\\alunodtorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\repositories\\irepositories\\iprofessorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\repositories\\irepositories\\iprofessorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,46 +150,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProfessorController.cs",
-              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\ProfessorController.cs",
-              "RelativeDocumentMoniker": "api-escola\\Controllers\\ProfessorController.cs",
-              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\ProfessorController.cs",
-              "RelativeToolTip": "api-escola\\Controllers\\ProfessorController.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAswBsAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "InstituicaoController.cs",
+              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\InstituicaoController.cs",
+              "RelativeDocumentMoniker": "api-escola\\Controllers\\InstituicaoController.cs",
+              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\InstituicaoController.cs",
+              "RelativeToolTip": "api-escola\\Controllers\\InstituicaoController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T16:34:19.346Z",
+              "WhenOpened": "2025-06-25T18:15:16.997Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProfessorService.cs",
-              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Services\\ProfessorService.cs",
-              "RelativeDocumentMoniker": "api-escola\\Services\\ProfessorService.cs",
-              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Services\\ProfessorService.cs",
-              "RelativeToolTip": "api-escola\\Services\\ProfessorService.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAmwEUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "AlunoService.cs",
+              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Services\\AlunoService.cs",
+              "RelativeDocumentMoniker": "api-escola\\Services\\AlunoService.cs",
+              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Services\\AlunoService.cs",
+              "RelativeToolTip": "api-escola\\Services\\AlunoService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T16:15:11.268Z",
+              "WhenOpened": "2025-06-25T16:00:20.047Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IProfessorService.cs",
-              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Services\\IServices\\IProfessorService.cs",
-              "RelativeDocumentMoniker": "api-escola\\Services\\IServices\\IProfessorService.cs",
-              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Services\\IServices\\IProfessorService.cs",
-              "RelativeToolTip": "api-escola\\Services\\IServices\\IProfessorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T16:08:36.667Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "IAlunoService.cs",
               "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Services\\IServices\\IAlunoService.cs",
               "RelativeDocumentMoniker": "api-escola\\Services\\IServices\\IAlunoService.cs",
@@ -130,33 +189,345 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AlunoService.cs",
-              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Services\\AlunoService.cs",
-              "RelativeDocumentMoniker": "api-escola\\Services\\AlunoService.cs",
-              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Services\\AlunoService.cs",
-              "RelativeToolTip": "api-escola\\Services\\AlunoService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "InstituicaoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Repositories\\InstituicaoRepository.cs",
+              "RelativeDocumentMoniker": "api-escola\\Repositories\\InstituicaoRepository.cs",
+              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Repositories\\InstituicaoRepository.cs",
+              "RelativeToolTip": "api-escola\\Repositories\\InstituicaoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T16:00:20.047Z",
+              "WhenOpened": "2025-06-25T17:57:39.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InstituicaoService.cs",
+              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Services\\InstituicaoService.cs",
+              "RelativeDocumentMoniker": "api-escola\\Services\\InstituicaoService.cs",
+              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Services\\InstituicaoService.cs",
+              "RelativeToolTip": "api-escola\\Services\\InstituicaoService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:10:37.784Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProfessorService.cs",
+              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Services\\ProfessorService.cs",
+              "RelativeDocumentMoniker": "api-escola\\Services\\ProfessorService.cs",
+              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Services\\ProfessorService.cs",
+              "RelativeToolTip": "api-escola\\Services\\ProfessorService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:15:11.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InstituicaoDtoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\Dtos\\InstituicaoDtoRequest.cs",
+              "RelativeDocumentMoniker": "api-escola\\Controllers\\Dtos\\InstituicaoDtoRequest.cs",
+              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\Dtos\\InstituicaoDtoRequest.cs",
+              "RelativeToolTip": "api-escola\\Controllers\\Dtos\\InstituicaoDtoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:04:02.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InstituicadoDtoResponse.cs",
+              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\Dtos\\InstituicadoDtoResponse.cs",
+              "RelativeDocumentMoniker": "api-escola\\Controllers\\Dtos\\InstituicadoDtoResponse.cs",
+              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\Dtos\\InstituicadoDtoResponse.cs",
+              "RelativeToolTip": "api-escola\\Controllers\\Dtos\\InstituicadoDtoResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:06:18.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IInstituicaoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Repositories\\IRepositories\\IInstituicaoRepository.cs",
+              "RelativeDocumentMoniker": "api-escola\\Repositories\\IRepositories\\IInstituicaoRepository.cs",
+              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Repositories\\IRepositories\\IInstituicaoRepository.cs",
+              "RelativeToolTip": "api-escola\\Repositories\\IRepositories\\IInstituicaoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:50:56.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAlunoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Repositories\\IRepositories\\IAlunoRepository.cs",
+              "RelativeDocumentMoniker": "api-escola\\Repositories\\IRepositories\\IAlunoRepository.cs",
+              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Repositories\\IRepositories\\IAlunoRepository.cs",
+              "RelativeToolTip": "api-escola\\Repositories\\IRepositories\\IAlunoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:27:32.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Instituicao.cs",
+              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Models\\Instituicao.cs",
+              "RelativeDocumentMoniker": "api-escola\\Models\\Instituicao.cs",
+              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Models\\Instituicao.cs",
+              "RelativeToolTip": "api-escola\\Models\\Instituicao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:18:57.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Program.cs",
+              "RelativeDocumentMoniker": "api-escola\\Program.cs",
+              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Program.cs",
+              "RelativeToolTip": "api-escola\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:06:59.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IInstituicaoService.cs",
+              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Services\\IServices\\IInstituicaoService.cs",
+              "RelativeDocumentMoniker": "api-escola\\Services\\IServices\\IInstituicaoService.cs",
+              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Services\\IServices\\IInstituicaoService.cs",
+              "RelativeToolTip": "api-escola\\Services\\IServices\\IInstituicaoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:09:08.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AlunoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Repositories\\AlunoRepository.cs",
+              "RelativeDocumentMoniker": "api-escola\\Repositories\\AlunoRepository.cs",
+              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Repositories\\AlunoRepository.cs",
+              "RelativeToolTip": "api-escola\\Repositories\\AlunoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:13:55.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Configs\\AutoMapper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "api-escola\\Configs\\AutoMapper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Configs\\AutoMapper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "api-escola\\Configs\\AutoMapper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:09:13.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AlunoDtoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\Dtos\\AlunoDtoRequest.cs",
+              "RelativeDocumentMoniker": "api-escola\\Controllers\\Dtos\\AlunoDtoRequest.cs",
+              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\Dtos\\AlunoDtoRequest.cs",
+              "RelativeToolTip": "api-escola\\Controllers\\Dtos\\AlunoDtoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:09:36.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "ProfessorRepository.cs",
               "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Repositories\\ProfessorRepository.cs",
               "RelativeDocumentMoniker": "api-escola\\Repositories\\ProfessorRepository.cs",
               "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Repositories\\ProfessorRepository.cs",
               "RelativeToolTip": "api-escola\\Repositories\\ProfessorRepository.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAmwCIAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwCIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T16:07:46.997Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 18,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Models\\Curso.cs",
+              "RelativeDocumentMoniker": "api-escola\\Models\\Curso.cs",
+              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Models\\Curso.cs",
+              "RelativeToolTip": "api-escola\\Models\\Curso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:49:53.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TituloService.cs",
+              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Services\\TituloService.cs",
+              "RelativeDocumentMoniker": "api-escola\\Services\\TituloService.cs",
+              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Services\\TituloService.cs",
+              "RelativeToolTip": "api-escola\\Services\\TituloService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:44:43.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ITituloService.cs",
+              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Services\\IServices\\ITituloService.cs",
+              "RelativeDocumentMoniker": "api-escola\\Services\\IServices\\ITituloService.cs",
+              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Services\\IServices\\ITituloService.cs",
+              "RelativeToolTip": "api-escola\\Services\\IServices\\ITituloService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:42:46.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TituloDtoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\Dtos\\TituloDtoRequest.cs",
+              "RelativeDocumentMoniker": "api-escola\\Controllers\\Dtos\\TituloDtoRequest.cs",
+              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\Dtos\\TituloDtoRequest.cs",
+              "RelativeToolTip": "api-escola\\Controllers\\Dtos\\TituloDtoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:40:47.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TituloDtoResponse.cs",
+              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\Dtos\\TituloDtoResponse.cs",
+              "RelativeDocumentMoniker": "api-escola\\Controllers\\Dtos\\TituloDtoResponse.cs",
+              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\Dtos\\TituloDtoResponse.cs",
+              "RelativeToolTip": "api-escola\\Controllers\\Dtos\\TituloDtoResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:41:07.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TituloController.cs",
+              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\TituloController.cs",
+              "RelativeDocumentMoniker": "api-escola\\Controllers\\TituloController.cs",
+              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\TituloController.cs",
+              "RelativeToolTip": "api-escola\\Controllers\\TituloController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:47:30.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProfessorController.cs",
+              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\ProfessorController.cs",
+              "RelativeDocumentMoniker": "api-escola\\Controllers\\ProfessorController.cs",
+              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\ProfessorController.cs",
+              "RelativeToolTip": "api-escola\\Controllers\\ProfessorController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:34:19.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Titulo.cs",
+              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Models\\Titulo.cs",
+              "RelativeDocumentMoniker": "api-escola\\Models\\Titulo.cs",
+              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Models\\Titulo.cs",
+              "RelativeToolTip": "api-escola\\Models\\Titulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:39:45.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TituloRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Repositories\\TituloRepository.cs",
+              "RelativeDocumentMoniker": "api-escola\\Repositories\\TituloRepository.cs",
+              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Repositories\\TituloRepository.cs",
+              "RelativeToolTip": "api-escola\\Repositories\\TituloRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:30:06.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ITituloRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Repositories\\IRepositories\\ITituloRepository.cs",
+              "RelativeDocumentMoniker": "api-escola\\Repositories\\IRepositories\\ITituloRepository.cs",
+              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Repositories\\IRepositories\\ITituloRepository.cs",
+              "RelativeToolTip": "api-escola\\Repositories\\IRepositories\\ITituloRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:27:27.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IProfessorService.cs",
+              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Services\\IServices\\IProfessorService.cs",
+              "RelativeDocumentMoniker": "api-escola\\Services\\IServices\\IProfessorService.cs",
+              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Services\\IServices\\IProfessorService.cs",
+              "RelativeToolTip": "api-escola\\Services\\IServices\\IProfessorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:08:36.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IProfessorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Repositories\\IRepositories\\IProfessorRepository.cs",
+              "RelativeDocumentMoniker": "api-escola\\Repositories\\IRepositories\\IProfessorRepository.cs",
+              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Repositories\\IRepositories\\IProfessorRepository.cs",
+              "RelativeToolTip": "api-escola\\Repositories\\IRepositories\\IProfessorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:07:58.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "AlunoController.cs",
               "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\AlunoController.cs",
               "RelativeDocumentMoniker": "api-escola\\Controllers\\AlunoController.cs",
@@ -169,46 +540,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AlunoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Repositories\\AlunoRepository.cs",
-              "RelativeDocumentMoniker": "api-escola\\Repositories\\AlunoRepository.cs",
-              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Repositories\\AlunoRepository.cs",
-              "RelativeToolTip": "api-escola\\Repositories\\AlunoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T17:13:55.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Program.cs",
-              "RelativeDocumentMoniker": "api-escola\\Program.cs",
-              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Program.cs",
-              "RelativeToolTip": "api-escola\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T17:06:59.163Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AutoMapperProfile.cs",
-              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Configs\\AutoMapper\\AutoMapperProfile.cs",
-              "RelativeDocumentMoniker": "api-escola\\Configs\\AutoMapper\\AutoMapperProfile.cs",
-              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Configs\\AutoMapper\\AutoMapperProfile.cs",
-              "RelativeToolTip": "api-escola\\Configs\\AutoMapper\\AutoMapperProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T17:09:13.493Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 30,
               "Title": "ProfessorDtoResponse.cs",
               "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\Dtos\\ProfessorDtoResponse.cs",
               "RelativeDocumentMoniker": "api-escola\\Controllers\\Dtos\\ProfessorDtoResponse.cs",
@@ -221,7 +553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 31,
               "Title": "ProfessorDtoRequest.cs",
               "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\Dtos\\ProfessorDtoRequest.cs",
               "RelativeDocumentMoniker": "api-escola\\Controllers\\Dtos\\ProfessorDtoRequest.cs",
@@ -234,20 +566,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AlunoDtoRequest.cs",
-              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\Dtos\\AlunoDtoRequest.cs",
-              "RelativeDocumentMoniker": "api-escola\\Controllers\\Dtos\\AlunoDtoRequest.cs",
-              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\Dtos\\AlunoDtoRequest.cs",
-              "RelativeToolTip": "api-escola\\Controllers\\Dtos\\AlunoDtoRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T16:09:36.967Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 32,
               "Title": "Professor.cs",
               "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Models\\Professor.cs",
               "RelativeDocumentMoniker": "api-escola\\Models\\Professor.cs",
@@ -256,19 +575,6 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAqwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T16:09:30.304Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IProfessorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Repositories\\IRepositories\\IProfessorRepository.cs",
-              "RelativeDocumentMoniker": "api-escola\\Repositories\\IRepositories\\IProfessorRepository.cs",
-              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Repositories\\IRepositories\\IProfessorRepository.cs",
-              "RelativeToolTip": "api-escola\\Repositories\\IRepositories\\IProfessorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T16:07:58.884Z",
               "EditorCaption": ""
             }
           ]

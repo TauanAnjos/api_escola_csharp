@@ -7,29 +7,37 @@ namespace api_escola.Repositories
     {
         private readonly ProjetoP3Context _context;
 
+        public TituloRepository(ProjetoP3Context context)
+        {
+            _context = context;
+        }
+
         public Titulo? BuscarTitulo(ulong id)
         {
-            throw new NotImplementedException();
+            return _context.Set<Titulo>().FirstOrDefault(t => t.IdTitulo == id);
         }
 
         public void CriarTitulo(Titulo titulo)
         {
-            throw new NotImplementedException();
+            _context.Titulos.Add(titulo);
+            _context.SaveChanges();
         }
 
         public void DeletarTitulo(Titulo titulo)
         {
-            throw new NotImplementedException();
+            _context.Titulos.Remove(titulo);
+            _context.SaveChanges();
         }
 
         public void EditarTitulo(Titulo titulo)
         {
-            throw new NotImplementedException();
+            _context.Titulos.Update(titulo);
+            _context.SaveChanges();
         }
 
         public List<Titulo> ListarTitulos()
         {
-            throw new NotImplementedException();
+            return _context.Titulos.ToList();
         }
     }
 }

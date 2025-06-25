@@ -22,10 +22,14 @@ builder.Services.AddDbContext<ProjetoP3Context>(options =>
 //Repositories
 builder.Services.AddScoped<IAlunoRepository, AlunoRepository>();
 builder.Services.AddScoped<IProfessorRepository, ProfessorRepository>();
+builder.Services.AddScoped<ITituloRepository, TituloRepository>();
+builder.Services.AddScoped<IInstituicaoRepository, InstituicaoRepository>();
 
 //Services
 builder.Services.AddScoped<IAlunoService, AlunoService>();
 builder.Services.AddScoped<IProfessorService, ProfessorService>();
+builder.Services.AddScoped<ITituloService, TituloService>();
+builder.Services.AddScoped<IInstituicaoService, InstituicaoService>();
 
 // Add services to the container.
 builder.Services.AddControllers();
