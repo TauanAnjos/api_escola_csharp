@@ -1,10 +1,11 @@
+using api_escola.Models;
+using api_escola.Repositories;
+using api_escola.Repositories.IRepositories;
+using api_escola.Services; // <- ajuste se o namespace for diferente
+using api_escola.Services.IServices;
 using Microsoft.EntityFrameworkCore;
 using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
-using api_escola.Models;
-using api_escola.Repositories.IRepositories;
-using api_escola.Repositories;
-using api_escola.Services.IServices;
-using api_escola.Services; // <- ajuste se o namespace for diferente
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -47,6 +48,14 @@ builder.Services.AddScoped<ILecionaService, LecionaService>();
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddSwaggerGen(c =>
+{
+    var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
+    var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
+    c.IncludeXmlComments(xmlPath);
+});
+
+
 
 var app = builder.Build();
 

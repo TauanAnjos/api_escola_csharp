@@ -14,6 +14,11 @@ namespace api_escola.Controllers
         {
             _service = service;
         }
+        /// <summary>
+        /// Cria um aluno.
+        /// </summary>
+        /// /// <param name="request">Dados do aluno para criação.</param>
+        /// <returns>Retorna um aluno criado</returns>
         [HttpPost]
         public IActionResult CriarAluno([FromBody]AlunoDtoRequest request)
         {
