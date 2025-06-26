@@ -17,6 +17,7 @@ namespace api_escola.Configs.AutoMapper
             CreateMap<TipoDisciplina,TipoDisciplinaDtoResponse>();
             CreateMap<Curso, CursoDtoResponse>();
             CreateMap<Disciplina, DisciplinaDtoResponse>();
+            CreateMap<Cursa, CursaDtoResponse>();
 
             //DtoRequest para entidade
             CreateMap<AlunoDtoRequest, Aluno>();
@@ -27,6 +28,7 @@ namespace api_escola.Configs.AutoMapper
             CreateMap<TipoDisciplinaDtoRequest,  TipoDisciplina>();
             CreateMap<CursoDtoRequest, Curso>();
             CreateMap<DisciplinaDtoRequest, Disciplina>();
+            CreateMap<CursaDtoRequest, Cursa>();
         }
     }
 }
