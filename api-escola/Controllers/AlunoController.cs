@@ -25,6 +25,11 @@ namespace api_escola.Controllers
             _service.CriarAluno(request);
             return Created("api/v1/aluno", request);
         }
+        /// <summary>
+        /// Busca um aluno.
+        /// </summary>
+        /// /// <param name="id">ID para buscar o aluno.</param>
+        /// <returns>Retorna um aluno referente ao ID</returns>
         [HttpGet("{id}")]
         public IActionResult BuscarAlunoPorId([FromRoute]ulong id)
         {
@@ -36,6 +41,12 @@ namespace api_escola.Controllers
             }
             return Ok(alunoExistente);
         }
+        /// <summary>
+        /// Edita os dados de um aluno existente.
+        /// </summary>
+        /// <param name="id">ID do aluno a ser editado.</param>
+        /// <param name="request">Dados atualizados do aluno.</param>
+        /// <returns>Retorna o aluno atualizado.</returns>
         [HttpPut("{id}")]
         public IActionResult EditarAluno([FromRoute]ulong id, [FromBody]AlunoDtoRequest request)
         {
@@ -48,6 +59,11 @@ namespace api_escola.Controllers
             var alunoAtualizado = _service.BuscarAluno(id);
             return Ok(alunoAtualizado);
         }
+        /// <summary>
+        /// Deleta um aluno existente.
+        /// </summary>
+        /// <param name="id">Deleta um aluno referente ao ID.</param>
+        /// <returns>Retorna uma mensagem de sucesso ao deletar aluno.</returns>
         [HttpDelete("{id}")]
         public IActionResult DeletarAluno([FromRoute] ulong id)
         {
@@ -59,6 +75,10 @@ namespace api_escola.Controllers
             _service.DeletarAluno(id);
             return Ok("Aluno deletado com sucesso.");
         }
+        /// <summary>
+        /// Listar alunos.
+        /// </summary>
+        /// <returns>Retorna uma lista de alunos.</returns>
         [HttpGet]
         public IActionResult BuscarTodosAlunos()
         {

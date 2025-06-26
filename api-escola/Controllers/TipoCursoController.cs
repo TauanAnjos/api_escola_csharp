@@ -14,14 +14,22 @@ namespace api_escola.Controllers
         {
             _tipoCursoService = tipoCursoService;
         }
-
+        /// <summary>
+        /// Cria qual o tipo do curso
+        /// </summary>
+        /// <param name="request">Dados referente ao curso</param>
+        /// <returns>Retorna o tipo do curso criado</returns>
         [HttpPost]
         public IActionResult CriarTipoCurso([FromBody] TipoCursoDtoRequest request)
         {
             _tipoCursoService.CriarTipoCurso(request);
             return Created("api/v1/tipo-curso", request);
         }
-
+        /// <summary>
+        /// Busca um tipo de curso
+        /// </summary>
+        /// <param name="id">ID referente ao tipo de curso</param>
+        /// <returns>Retorna um curso referente ao ID</returns>
         [HttpGet("{id}")]
         public IActionResult BuscarTipoCursoPorId([FromRoute] ulong id)
         {
@@ -32,7 +40,12 @@ namespace api_escola.Controllers
             }
             return Ok(tipoCurso);
         }
-
+        /// <summary>
+        /// Edita um tipo de curso
+        /// </summary>
+        /// <param name="id">ID referente ao curso a ser editado</param>
+        /// <param name="request">Dados a serem atualizados do tipo de curso</param>
+        /// <returns>Retorna o tipo de curso atualizado</returns>
         [HttpPut("{id}")]
         public IActionResult EditarTipoCurso([FromRoute] ulong id, [FromBody] TipoCursoDtoRequest request)
         {
@@ -46,7 +59,11 @@ namespace api_escola.Controllers
             var atualizado = _tipoCursoService.BuscarTipoCurso(id);
             return Ok(atualizado);
         }
-
+        /// <summary>
+        /// Deleta um tipo de curso
+        /// </summary>
+        /// <param name="id">ID referente ao tipo de curso a ser deletado</param>
+        /// <returns>Retorna uma mensagem de sucesso ao deletar tipo de curso</returns>
         [HttpDelete("{id}")]
         public IActionResult DeletarTipoCurso([FromRoute] ulong id)
         {
@@ -59,7 +76,10 @@ namespace api_escola.Controllers
             _tipoCursoService.DeletarTipoCurso(id);
             return Ok("TipoCurso deletado com sucesso.");
         }
-
+        /// <summary>
+        /// Lista tipo de curso
+        /// </summary>
+        /// <returns>Retorna uma lista de tipos de curso</returns>
         [HttpGet]
         public IActionResult ListarTiposCurso()
         {

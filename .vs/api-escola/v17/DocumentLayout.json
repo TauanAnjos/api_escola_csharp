@@ -3,6 +3,46 @@
   "WorkspaceRootPath": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\controllers\\titulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\controllers\\titulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\controllers\\tipodisciplinacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\controllers\\tipodisciplinacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\controllers\\tipocursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\controllers\\tipocursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\controllers\\lecionacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\controllers\\lecionacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\controllers\\instituicaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\controllers\\instituicaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\controllers\\disciplinacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\controllers\\disciplinacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\controllers\\cursacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\controllers\\cursacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|c:\\users\\tauan.nascimento\\api_escola_csharp\\api-escola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0122DE06-1EDA-45DC-8AE7-3F286F4AD8AF}|api-escola\\api-escola.csproj|solutionrelative:api-escola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +62,145 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TituloController.cs",
+              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\TituloController.cs",
+              "RelativeDocumentMoniker": "api-escola\\Controllers\\TituloController.cs",
+              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\TituloController.cs",
+              "RelativeToolTip": "api-escola\\Controllers\\TituloController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwFEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:19:04.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TipoDisciplinaController.cs",
+              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\TipoDisciplinaController.cs",
+              "RelativeDocumentMoniker": "api-escola\\Controllers\\TipoDisciplinaController.cs",
+              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\TipoDisciplinaController.cs",
+              "RelativeToolTip": "api-escola\\Controllers\\TipoDisciplinaController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwFEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:15:13.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TipoCursoController.cs",
+              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\TipoCursoController.cs",
+              "RelativeDocumentMoniker": "api-escola\\Controllers\\TipoCursoController.cs",
+              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\TipoCursoController.cs",
+              "RelativeToolTip": "api-escola\\Controllers\\TipoCursoController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwFEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:09:38.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LecionaController.cs",
+              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\LecionaController.cs",
+              "RelativeDocumentMoniker": "api-escola\\Controllers\\LecionaController.cs",
+              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\LecionaController.cs",
+              "RelativeToolTip": "api-escola\\Controllers\\LecionaController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAcwFkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:05:26.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DisciplinaController.cs",
+              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\DisciplinaController.cs",
+              "RelativeDocumentMoniker": "api-escola\\Controllers\\DisciplinaController.cs",
+              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\DisciplinaController.cs",
+              "RelativeToolTip": "api-escola\\Controllers\\DisciplinaController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAADwv0EAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:02:01.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CursoController.cs",
+              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\CursoController.cs",
+              "RelativeDocumentMoniker": "api-escola\\Controllers\\CursoController.cs",
+              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\CursoController.cs",
+              "RelativeToolTip": "api-escola\\Controllers\\CursoController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwFEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T13:59:25.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InstituicaoController.cs",
+              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\InstituicaoController.cs",
+              "RelativeDocumentMoniker": "api-escola\\Controllers\\InstituicaoController.cs",
+              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\InstituicaoController.cs",
+              "RelativeToolTip": "api-escola\\Controllers\\InstituicaoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T13:47:57.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProfessorController.cs",
+              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\ProfessorController.cs",
+              "RelativeDocumentMoniker": "api-escola\\Controllers\\ProfessorController.cs",
+              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\ProfessorController.cs",
+              "RelativeToolTip": "api-escola\\Controllers\\ProfessorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T13:40:54.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CursaController.cs",
+              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\CursaController.cs",
+              "RelativeDocumentMoniker": "api-escola\\Controllers\\CursaController.cs",
+              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\CursaController.cs",
+              "RelativeToolTip": "api-escola\\Controllers\\CursaController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwFkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T13:40:51.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "api-escola\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "api-escola\\Controllers\\AlunoController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwFAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T13:35:08.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\Program.cs",
               "RelativeDocumentMoniker": "api-escola\\Program.cs",
@@ -39,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "api-escola",
               "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\api-escola.csproj",
               "RelativeDocumentMoniker": "api-escola\\api-escola.csproj",
@@ -52,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\tauan.nascimento\\api_escola_csharp\\api-escola\\appsettings.json",
               "RelativeDocumentMoniker": "api-escola\\appsettings.json",
